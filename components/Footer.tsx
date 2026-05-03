@@ -4,14 +4,17 @@ const footerLinks = {
   company: [
     { href: "/", label: "Home" },
     { href: "/about", label: "About Us" },
+    { href: "/pricing", label: "Pricing" },
     { href: "/portfolio", label: "Portfolio" },
+    { href: "/blog", label: "Blog" },
     { href: "/contact", label: "Contact" },
   ],
   services: [
-    { href: "/social-media-manpower-singapore", label: "Social Media Management" },
-    { href: "/social-media-manpower-singapore#content", label: "Content Creation" },
-    { href: "/social-media-manpower-singapore#influencer", label: "Influencer Marketing" },
-    { href: "/social-media-manpower-singapore#analytics", label: "Analytics & Reporting" },
+    { href: "/social-media-manpower-singapore", label: "Social Media Manpower" },
+    { href: "/social-media-for-restaurants-singapore", label: "F&B & Restaurants" },
+    { href: "/social-media-for-beauty-salon-singapore", label: "Beauty & Wellness" },
+    { href: "/social-media-for-ecommerce-singapore", label: "Ecommerce" },
+    { href: "/hire-vs-outsource-social-media", label: "Hire vs Outsource" },
   ],
 }
 
