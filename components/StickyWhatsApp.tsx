@@ -24,7 +24,7 @@ export default function StickyWhatsApp() {
       }`}
     >
       <div className="relative group cursor-pointer">
-        <div className="absolute inset-0 bg-[#25D366] rounded-full animate-ping opacity-20" />
+        <div className="absolute inset-0 bg-[#25D366] rounded-full motion-safe:animate-ping opacity-20" />
         <div className="relative w-14 h-14 bg-[#25D366] rounded-full flex items-center justify-center shadow-2xl shadow-black/60 group-hover:bg-[#1ebe58] transition-colors duration-200">
           <svg
             className="w-7 h-7 text-white"

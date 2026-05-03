@@ -14,13 +14,13 @@ export const metadata: Metadata = {
     "outsource social media Singapore price",
   ],
   alternates: {
-    canonical: "https://socialmediamanpower.sg/pricing",
+    canonical: "https://socialmediamanpower.com/pricing",
   },
   openGraph: {
     title: "Social Media Management Pricing Singapore | From S$600/month",
     description:
       "Dedicated social media manpower for Singapore SMEs from S$600/month. No CPF, no contracts, no hiring stress.",
-    url: "https://socialmediamanpower.sg/pricing",
+    url: "https://socialmediamanpower.com/pricing",
     type: "website",
   },
 }
@@ -231,7 +231,7 @@ export default function PricingPage() {
 
         <div className="relative z-10 max-w-4xl mx-auto px-4 sm:px-6 text-center py-24">
           <div className="inline-flex items-center gap-2 bg-[#D4AF37]/10 border border-[#D4AF37]/20 rounded-full px-4 py-1.5 mb-6">
-            <span className="w-1.5 h-1.5 rounded-full bg-[#D4AF37] animate-pulse" />
+            <span className="w-1.5 h-1.5 rounded-full bg-[#D4AF37] motion-safe:animate-pulse" />
             <span className="text-[#D4AF37] text-xs font-medium tracking-wide uppercase">
               Transparent pricing
             </span>
@@ -709,7 +709,7 @@ export default function PricingPage() {
 
         <div className="relative z-10 max-w-3xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 bg-[#D4AF37]/10 border border-[#D4AF37]/20 rounded-full px-4 py-1.5 mb-6">
-            <span className="w-1.5 h-1.5 rounded-full bg-[#D4AF37] animate-pulse" />
+            <span className="w-1.5 h-1.5 rounded-full bg-[#D4AF37] motion-safe:animate-pulse" />
             <span className="text-[#D4AF37] text-xs font-medium tracking-wide uppercase">
               From S$600/month
             </span>

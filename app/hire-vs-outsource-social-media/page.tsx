@@ -15,13 +15,13 @@ export const metadata: Metadata = {
     "social media management options singapore",
   ],
   alternates: {
-    canonical: "https://socialmediamanpower.sg/hire-vs-outsource-social-media",
+    canonical: "https://socialmediamanpower.com/hire-vs-outsource-social-media",
   },
   openGraph: {
     title: "Hire vs Outsource Social Media in Singapore | Cost Comparison",
     description:
       "Full-time hire, freelancer, agency, or dedicated manpower — compare costs, effort, and flexibility for Singapore SMEs.",
-    url: "https://socialmediamanpower.sg/hire-vs-outsource-social-media",
+    url: "https://socialmediamanpower.com/hire-vs-outsource-social-media",
     type: "website",
   },
 }
@@ -764,7 +764,7 @@ export default function HireVsOutsourcePage() {
 
         <div className="relative z-10 max-w-3xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 bg-[#D4AF37]/10 border border-[#D4AF37]/20 rounded-full px-4 py-1.5 mb-6">
-            <span className="w-1.5 h-1.5 rounded-full bg-[#D4AF37] animate-pulse" />
+            <span className="w-1.5 h-1.5 rounded-full bg-[#D4AF37] motion-safe:animate-pulse" />
             <span className="text-[#D4AF37] text-xs font-medium tracking-wide uppercase">
               Skip the hiring process
             </span>

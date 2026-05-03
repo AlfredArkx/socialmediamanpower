@@ -15,13 +15,13 @@ export const metadata: Metadata = {
     "social media management restaurant",
   ],
   alternates: {
-    canonical: "https://socialmediamanpower.sg/social-media-for-restaurants-singapore",
+    canonical: "https://socialmediamanpower.com/social-media-for-restaurants-singapore",
   },
   openGraph: {
     title: "Social Media for Restaurants Singapore | From S$600/month",
     description:
       "Attract more diners with consistent social media posting, food content, and promo graphics. Built for Singapore restaurants, cafes, and food stalls.",
-    url: "https://socialmediamanpower.sg/social-media-for-restaurants-singapore",
+    url: "https://socialmediamanpower.com/social-media-for-restaurants-singapore",
     type: "website",
   },
 }

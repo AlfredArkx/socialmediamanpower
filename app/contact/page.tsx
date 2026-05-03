@@ -13,13 +13,13 @@ export const metadata: Metadata = {
     "social media management quote singapore",
   ],
   alternates: {
-    canonical: "https://socialmediamanpower.sg/contact",
+    canonical: "https://socialmediamanpower.com/contact",
   },
   openGraph: {
     title: "Contact Social Media Manpower Singapore",
     description:
       "Tell us about your business and we'll recommend the best way to support your social media needs. From S$600/month.",
-    url: "https://socialmediamanpower.sg/contact",
+    url: "https://socialmediamanpower.com/contact",
     type: "website",
   },
 }

@@ -382,7 +382,7 @@ export default function HomePage() {
         <div className="relative max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 pt-28 pb-20 text-center">
           {/* Badge */}
           <div className="inline-flex items-center gap-2 bg-[#D4AF37]/10 border border-[#D4AF37]/25 rounded-full px-4 py-1.5 mb-8">
-            <span className="w-1.5 h-1.5 bg-[#D4AF37] rounded-full animate-pulse" aria-hidden="true" />
+            <span className="w-1.5 h-1.5 bg-[#D4AF37] rounded-full motion-safe:animate-pulse" aria-hidden="true" />
             <span className="text-[#D4AF37] text-sm font-medium">
               Trusted by 200+ Singapore SMEs
             </span>
@@ -966,7 +966,7 @@ export default function HomePage() {
 
             <div className="relative">
               <div className="inline-flex items-center gap-2 bg-[#D4AF37]/10 border border-[#D4AF37]/25 rounded-full px-4 py-1.5 mb-8">
-                <span className="w-1.5 h-1.5 bg-[#D4AF37] rounded-full animate-pulse" aria-hidden="true" />
+                <span className="w-1.5 h-1.5 bg-[#D4AF37] rounded-full motion-safe:animate-pulse" aria-hidden="true" />
                 <span className="text-[#D4AF37] text-sm font-medium">
                   Limited spots available this month
                 </span>

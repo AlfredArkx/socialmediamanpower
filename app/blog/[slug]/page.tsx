@@ -31,12 +31,12 @@ export async function generateMetadata({
     description: post.metaDescription,
     keywords: post.keywords,
     alternates: {
-      canonical: `https://socialmediamanpower.sg/blog/${post.slug}`,
+      canonical: `https://socialmediamanpower.com/blog/${post.slug}`,
     },
     openGraph: {
       title: post.metaTitle,
       description: post.metaDescription,
-      url: `https://socialmediamanpower.sg/blog/${post.slug}`,
+      url: `https://socialmediamanpower.com/blog/${post.slug}`,
       type: "article",
       publishedTime: post.publishedDate,
     },

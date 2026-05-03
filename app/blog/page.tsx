@@ -13,13 +13,13 @@ export const metadata: Metadata = {
     "social media content singapore",
   ],
   alternates: {
-    canonical: "https://socialmediamanpower.sg/blog",
+    canonical: "https://socialmediamanpower.com/blog",
   },
   openGraph: {
     title: "Social Media Blog Singapore | Social Media Manpower",
     description:
       "Practical social media tips and guides for Singapore SMEs — F&B, beauty, retail, and ecommerce.",
-    url: "https://socialmediamanpower.sg/blog",
+    url: "https://socialmediamanpower.com/blog",
     type: "website",
   },
 }

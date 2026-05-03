@@ -68,7 +68,7 @@ export default function Navbar() {
               <Link
                 key={link.href}
                 href={link.href}
-                className="text-gray-300 hover:text-[#D4AF37] text-sm font-medium transition-colors duration-200"
+                className="text-gray-300 hover:text-[#D4AF37] text-sm font-medium transition-colors duration-200 rounded focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#D4AF37] focus-visible:ring-offset-2 focus-visible:ring-offset-[#0A0A0A]"
               >
                 {link.label}
               </Link>
@@ -81,7 +81,7 @@ export default function Navbar() {
               href="https://wa.me/6591234567"
               target="_blank"
               rel="noopener noreferrer"
-              className="hidden sm:inline-flex items-center gap-2 bg-[#D4AF37] text-[#0A0A0A] px-4 py-2 rounded-full text-sm font-semibold hover:bg-[#b8961e] transition-colors duration-200 cursor-pointer"
+              className="hidden sm:inline-flex items-center gap-2 bg-[#D4AF37] text-[#0A0A0A] px-4 py-2 rounded-full text-sm font-semibold hover:bg-[#b8961e] transition-colors duration-200 cursor-pointer focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#D4AF37] focus-visible:ring-offset-2 focus-visible:ring-offset-[#0A0A0A]"
               aria-label="Contact us on WhatsApp"
             >
               <WhatsAppIcon />
@@ -90,7 +90,7 @@ export default function Navbar() {
 
             <button
               onClick={() => setIsOpen(!isOpen)}
-              className="md:hidden p-2 text-gray-300 hover:text-[#D4AF37] transition-colors duration-200 cursor-pointer"
+              className="md:hidden p-2 text-gray-300 hover:text-[#D4AF37] transition-colors duration-200 cursor-pointer rounded focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#D4AF37]"
               aria-label={isOpen ? "Close menu" : "Open menu"}
               aria-expanded={isOpen}
             >
@@ -112,7 +112,7 @@ export default function Navbar() {
                   key={link.href}
                   href={link.href}
                   onClick={() => setIsOpen(false)}
-                  className="block px-4 py-3 text-gray-300 hover:text-[#D4AF37] hover:bg-white/5 text-sm font-medium transition-colors duration-200 rounded-lg mx-2"
+                  className="block px-4 py-3 text-gray-300 hover:text-[#D4AF37] hover:bg-white/5 text-sm font-medium transition-colors duration-200 rounded-lg mx-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#D4AF37] focus-visible:ring-inset"
                 >
                   {link.label}
                 </Link>
@@ -122,7 +122,7 @@ export default function Navbar() {
                   href="https://wa.me/6591234567"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="flex items-center justify-center gap-2 bg-[#D4AF37] text-[#0A0A0A] px-4 py-3 rounded-full text-sm font-semibold w-full cursor-pointer hover:bg-[#b8961e] transition-colors duration-200"
+                  className="flex items-center justify-center gap-2 bg-[#D4AF37] text-[#0A0A0A] px-4 py-3 rounded-full text-sm font-semibold w-full cursor-pointer hover:bg-[#b8961e] transition-colors duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#D4AF37] focus-visible:ring-offset-2 focus-visible:ring-offset-[#0A0A0A]"
                 >
                   <WhatsAppIcon />
                   WhatsApp Us

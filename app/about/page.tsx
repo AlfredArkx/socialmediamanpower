@@ -12,13 +12,13 @@ export const metadata: Metadata = {
     "social media outsource singapore",
   ],
   alternates: {
-    canonical: "https://socialmediamanpower.sg/about",
+    canonical: "https://socialmediamanpower.com/about",
   },
   openGraph: {
     title: "About Social Media Manpower Singapore",
     description:
       "We help Singapore SMEs stay active online without the cost and stress of hiring full-time social media staff. From S$600/month.",
-    url: "https://socialmediamanpower.sg/about",
+    url: "https://socialmediamanpower.com/about",
     type: "website",
   },
 }

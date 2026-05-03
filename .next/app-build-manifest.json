@@ -12,9 +12,9 @@
       "static/chunks/4bd1b696-c023c6e3521b1417.js",
       "static/chunks/255-4f212684648fcab9.js",
       "static/chunks/main-app-42dfa031e7f68cc3.js",
-      "static/css/a48d36b47c061266.css",
+      "static/css/97971aed6d13fc37.css",
       "static/chunks/619-ba102abea3e3d0e4.js",
-      "static/chunks/app/layout-57aaadc6f781edb5.js"
+      "static/chunks/app/layout-a4566a4615901127.js"
     ],
     "/robots.txt/route": [
       "static/chunks/webpack-72c1bf8cb8877324.js",
@@ -30,6 +30,29 @@
       "static/chunks/main-app-42dfa031e7f68cc3.js",
       "static/chunks/app/sitemap.xml/route-068ba3586843ea10.js"
     ],
+    "/contact/page": [
+      "static/chunks/webpack-72c1bf8cb8877324.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-4f212684648fcab9.js",
+      "static/chunks/main-app-42dfa031e7f68cc3.js",
+      "static/chunks/619-ba102abea3e3d0e4.js",
+      "static/chunks/app/contact/page-af41536f57f09a44.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-72c1bf8cb8877324.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-4f212684648fcab9.js",
+      "static/chunks/main-app-42dfa031e7f68cc3.js",
+      "static/chunks/app/page-9132696f67f231f3.js"
+    ],
+    "/social-media-for-beauty-salon-singapore/page": [
+      "static/chunks/webpack-72c1bf8cb8877324.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-4f212684648fcab9.js",
+      "static/chunks/main-app-42dfa031e7f68cc3.js",
+      "static/chunks/619-ba102abea3e3d0e4.js",
+      "static/chunks/app/social-media-for-beauty-salon-singapore/page-f755195aab729f1e.js"
+    ],
     "/blog/page": [
       "static/chunks/webpack-72c1bf8cb8877324.js",
       "static/chunks/4bd1b696-c023c6e3521b1417.js",
@@ -37,6 +60,14 @@
       "static/chunks/main-app-42dfa031e7f68cc3.js",
       "static/chunks/619-ba102abea3e3d0e4.js",
       "static/chunks/app/blog/page-f755195aab729f1e.js"
+    ],
+    "/hire-vs-outsource-social-media/page": [
+      "static/chunks/webpack-72c1bf8cb8877324.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-4f212684648fcab9.js",
+      "static/chunks/main-app-42dfa031e7f68cc3.js",
+      "static/chunks/619-ba102abea3e3d0e4.js",
+      "static/chunks/app/hire-vs-outsource-social-media/page-31affe3db0c07c29.js"
     ],
     "/blog/[slug]/page": [
       "static/chunks/webpack-72c1bf8cb8877324.js",
@@ -54,21 +85,6 @@
       "static/chunks/619-ba102abea3e3d0e4.js",
       "static/chunks/app/about/page-f755195aab729f1e.js"
     ],
-    "/contact/page": [
-      "static/chunks/webpack-72c1bf8cb8877324.js",
-      "static/chunks/4bd1b696-c023c6e3521b1417.js",
-      "static/chunks/255-4f212684648fcab9.js",
-      "static/chunks/main-app-42dfa031e7f68cc3.js",
-      "static/chunks/619-ba102abea3e3d0e4.js",
-      "static/chunks/app/contact/page-c29dfe048f72976f.js"
-    ],
-    "/page": [
-      "static/chunks/webpack-72c1bf8cb8877324.js",
-      "static/chunks/4bd1b696-c023c6e3521b1417.js",
-      "static/chunks/255-4f212684648fcab9.js",
-      "static/chunks/main-app-42dfa031e7f68cc3.js",
-      "static/chunks/app/page-826a00ef3b4e6b96.js"
-    ],
     "/portfolio/page": [
       "static/chunks/webpack-72c1bf8cb8877324.js",
       "static/chunks/4bd1b696-c023c6e3521b1417.js",
@@ -76,14 +92,6 @@
       "static/chunks/main-app-42dfa031e7f68cc3.js",
       "static/chunks/619-ba102abea3e3d0e4.js",
       "static/chunks/app/portfolio/page-f755195aab729f1e.js"
-    ],
-    "/hire-vs-outsource-social-media/page": [
-      "static/chunks/webpack-72c1bf8cb8877324.js",
-      "static/chunks/4bd1b696-c023c6e3521b1417.js",
-      "static/chunks/255-4f212684648fcab9.js",
-      "static/chunks/main-app-42dfa031e7f68cc3.js",
-      "static/chunks/619-ba102abea3e3d0e4.js",
-      "static/chunks/app/hire-vs-outsource-social-media/page-da2d8148c88104f9.js"
     ],
     "/social-media-for-restaurants-singapore/page": [
       "static/chunks/webpack-72c1bf8cb8877324.js",
@@ -107,22 +115,14 @@
       "static/chunks/255-4f212684648fcab9.js",
       "static/chunks/main-app-42dfa031e7f68cc3.js",
       "static/chunks/619-ba102abea3e3d0e4.js",
-      "static/chunks/app/pricing/page-da2d8148c88104f9.js"
-    ],
-    "/social-media-for-beauty-salon-singapore/page": [
-      "static/chunks/webpack-72c1bf8cb8877324.js",
-      "static/chunks/4bd1b696-c023c6e3521b1417.js",
-      "static/chunks/255-4f212684648fcab9.js",
-      "static/chunks/main-app-42dfa031e7f68cc3.js",
-      "static/chunks/619-ba102abea3e3d0e4.js",
-      "static/chunks/app/social-media-for-beauty-salon-singapore/page-f755195aab729f1e.js"
+      "static/chunks/app/pricing/page-31affe3db0c07c29.js"
     ],
     "/social-media-manpower-singapore/page": [
       "static/chunks/webpack-72c1bf8cb8877324.js",
       "static/chunks/4bd1b696-c023c6e3521b1417.js",
       "static/chunks/255-4f212684648fcab9.js",
       "static/chunks/main-app-42dfa031e7f68cc3.js",
-      "static/chunks/app/social-media-manpower-singapore/page-826a00ef3b4e6b96.js"
+      "static/chunks/app/social-media-manpower-singapore/page-9132696f67f231f3.js"
     ]
   }
 }

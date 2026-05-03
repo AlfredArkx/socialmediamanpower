@@ -15,13 +15,13 @@ export const metadata: Metadata = {
     "tiktok shop marketing singapore",
   ],
   alternates: {
-    canonical: "https://socialmediamanpower.sg/social-media-for-ecommerce-singapore",
+    canonical: "https://socialmediamanpower.com/social-media-for-ecommerce-singapore",
   },
   openGraph: {
     title: "Social Media for Ecommerce Singapore | From S$600/month",
     description:
       "Turn product photos, promotions, and launches into consistent social media content. Built for Singapore online sellers on Shopify, Shopee, Lazada, and TikTok Shop.",
-    url: "https://socialmediamanpower.sg/social-media-for-ecommerce-singapore",
+    url: "https://socialmediamanpower.com/social-media-for-ecommerce-singapore",
     type: "website",
   },
 }

@@ -15,13 +15,13 @@ export const metadata: Metadata = {
     "beauty business instagram singapore",
   ],
   alternates: {
-    canonical: "https://socialmediamanpower.sg/social-media-for-beauty-salon-singapore",
+    canonical: "https://socialmediamanpower.com/social-media-for-beauty-salon-singapore",
   },
   openGraph: {
     title: "Social Media for Beauty Salons Singapore | From S$600/month",
     description:
       "Attract more bookings with consistent social media — treatment highlights, before/after posts, promo graphics, and Reels. Built for Singapore beauty businesses.",
-    url: "https://socialmediamanpower.sg/social-media-for-beauty-salon-singapore",
+    url: "https://socialmediamanpower.com/social-media-for-beauty-salon-singapore",
     type: "website",
   },
 }
