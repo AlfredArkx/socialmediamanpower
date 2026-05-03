@@ -72,6 +72,24 @@ type LayoutConfig<Route extends LayoutRoutes = LayoutRoutes> = {
   type __Unused = __Check
 }
 
+// Validate ../../app/social-media-for-beauty-salon-singapore/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/social-media-for-beauty-salon-singapore">> = Specific
+  const handler = {} as typeof import("../../app/social-media-for-beauty-salon-singapore/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
+// Validate ../../app/social-media-for-ecommerce-singapore/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/social-media-for-ecommerce-singapore">> = Specific
+  const handler = {} as typeof import("../../app/social-media-for-ecommerce-singapore/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
 // Validate ../../app/social-media-for-restaurants-singapore/page.tsx
 {
   type __IsExpected<Specific extends AppPageConfig<"/social-media-for-restaurants-singapore">> = Specific

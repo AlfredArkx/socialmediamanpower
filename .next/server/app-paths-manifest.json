@@ -1,7 +1,11 @@
 {
-  "/page": "app/page.js",
-  "/social-media-manpower-singapore/page": "app/social-media-manpower-singapore/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
   "/portfolio/page": "app/portfolio/page.js",
+  "/contact/page": "app/contact/page.js",
   "/about/page": "app/about/page.js",
-  "/contact/page": "app/contact/page.js"
+  "/social-media-for-beauty-salon-singapore/page": "app/social-media-for-beauty-salon-singapore/page.js",
+  "/social-media-for-ecommerce-singapore/page": "app/social-media-for-ecommerce-singapore/page.js",
+  "/social-media-for-restaurants-singapore/page": "app/social-media-for-restaurants-singapore/page.js",
+  "/social-media-manpower-singapore/page": "app/social-media-manpower-singapore/page.js",
+  "/page": "app/page.js"
 }

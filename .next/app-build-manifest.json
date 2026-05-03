@@ -1,35 +1,81 @@
 {
   "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-72c1bf8cb8877324.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-4f212684648fcab9.js",
+      "static/chunks/main-app-42dfa031e7f68cc3.js",
+      "static/chunks/app/_not-found/page-2615ee0b0ff77cc6.js"
+    ],
     "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
-    ],
-    "/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/page.js"
-    ],
-    "/social-media-manpower-singapore/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/social-media-manpower-singapore/page.js"
+      "static/chunks/webpack-72c1bf8cb8877324.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-4f212684648fcab9.js",
+      "static/chunks/main-app-42dfa031e7f68cc3.js",
+      "static/css/263d51da802ddc79.css",
+      "static/chunks/619-ba102abea3e3d0e4.js",
+      "static/chunks/app/layout-6a4631a038016630.js"
     ],
     "/portfolio/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/portfolio/page.js"
-    ],
-    "/about/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/about/page.js"
+      "static/chunks/webpack-72c1bf8cb8877324.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-4f212684648fcab9.js",
+      "static/chunks/main-app-42dfa031e7f68cc3.js",
+      "static/chunks/619-ba102abea3e3d0e4.js",
+      "static/chunks/app/portfolio/page-01d5a03ef53dc206.js"
     ],
     "/contact/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/contact/page.js"
+      "static/chunks/webpack-72c1bf8cb8877324.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-4f212684648fcab9.js",
+      "static/chunks/main-app-42dfa031e7f68cc3.js",
+      "static/chunks/app/contact/page-0e863cd02741dcbb.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack-72c1bf8cb8877324.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-4f212684648fcab9.js",
+      "static/chunks/main-app-42dfa031e7f68cc3.js",
+      "static/chunks/619-ba102abea3e3d0e4.js",
+      "static/chunks/app/about/page-01d5a03ef53dc206.js"
+    ],
+    "/social-media-for-beauty-salon-singapore/page": [
+      "static/chunks/webpack-72c1bf8cb8877324.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-4f212684648fcab9.js",
+      "static/chunks/main-app-42dfa031e7f68cc3.js",
+      "static/chunks/619-ba102abea3e3d0e4.js",
+      "static/chunks/app/social-media-for-beauty-salon-singapore/page-01d5a03ef53dc206.js"
+    ],
+    "/social-media-for-ecommerce-singapore/page": [
+      "static/chunks/webpack-72c1bf8cb8877324.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-4f212684648fcab9.js",
+      "static/chunks/main-app-42dfa031e7f68cc3.js",
+      "static/chunks/619-ba102abea3e3d0e4.js",
+      "static/chunks/app/social-media-for-ecommerce-singapore/page-01d5a03ef53dc206.js"
+    ],
+    "/social-media-for-restaurants-singapore/page": [
+      "static/chunks/webpack-72c1bf8cb8877324.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-4f212684648fcab9.js",
+      "static/chunks/main-app-42dfa031e7f68cc3.js",
+      "static/chunks/619-ba102abea3e3d0e4.js",
+      "static/chunks/app/social-media-for-restaurants-singapore/page-01d5a03ef53dc206.js"
+    ],
+    "/social-media-manpower-singapore/page": [
+      "static/chunks/webpack-72c1bf8cb8877324.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-4f212684648fcab9.js",
+      "static/chunks/main-app-42dfa031e7f68cc3.js",
+      "static/chunks/app/social-media-manpower-singapore/page-826a00ef3b4e6b96.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-72c1bf8cb8877324.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-4f212684648fcab9.js",
+      "static/chunks/main-app-42dfa031e7f68cc3.js",
+      "static/chunks/app/page-826a00ef3b4e6b96.js"
     ]
   }
 }
